@@ -1,0 +1,167 @@
+body {
+    background-color: #f8f9fa;
+}
+/* General Styles */
+body {
+    background-color: #f9f9f9;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h2, h1 {
+    color: #343a40;
+}
+
+p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Navbar Styles */
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+    color: #007bff !important;
+}
+
+.navbar .nav-link {
+    color: #555 !important;
+}
+
+.navbar .nav-link:hover {
+    color: #007bff !important;
+}
+
+.alert-info {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Form Styles */
+.form-control {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+button {
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+}
+
+.btn-danger:hover {
+    background-color: #bd2130;
+    border-color: #bd2130;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
+
+/* Dashboard Styles */
+.dashboard-section {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-section h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #007bff;
+}
+
+.dashboard-section p {
+    color: #555;
+}
+
+/* Custom Table (if needed) */
+.table {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.table th {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+.table td, .table th {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+.table tr:hover {
+    background-color: #f1f1f1;
+}
+
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.alert-info {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h2 {
+    color: #343a40;
+}
